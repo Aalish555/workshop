@@ -10,7 +10,7 @@ public class datatype
     float e=100.12f;
     double f=56.56;
     char g='y';
-    String h="hello";
+    Boolean h=true;
         System.out.println("byte a = " + a);
         System.out.println("int b = " + b);
         System.out.println("short c = " + c);
