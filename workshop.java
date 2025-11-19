@@ -9,5 +9,7 @@ public class workshop
         workshop a = new workshop();
         System.out.println(a.age);
         System.out.println(workshop.age_1);
+        System.out.println("hello world");
+        System.out.println("github");
     }
 }
